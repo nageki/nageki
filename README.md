@@ -1,6 +1,13 @@
 ### Hi there 👋
 
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+
+![Image of Name and Mascot](https://github.com/user-attachments/assets/b64dbe02-cfe6-4ee8-8719-f95dbe2d82d0)
+
+
 <!--
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+
 **nageki/nageki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
