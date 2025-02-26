@@ -1,9 +1,14 @@
-### Hi there 👋
+![smaller logo](https://github.com/user-attachments/assets/7fe157e1-4bcd-46d9-b44b-3122aa5b907f)
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+# ABOUT ME
 
-![Image of Name and Mascot](https://github.com/user-attachments/assets/b64dbe02-cfe6-4ee8-8719-f95dbe2d82d0)
-
+- 🔭 I’m currently working on figuring out my Github profile :P
+- 🌱 I’m currently learning how to use React.
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: n/a
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: ...
 
 <!--
 ![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
